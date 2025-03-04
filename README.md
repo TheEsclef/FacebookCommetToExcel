@@ -1,4 +1,4 @@
-# FacebookCommetToExcel
+# FacebookCommentToExcel
 A Python script that utilizes the facebook API to turn all comments form a post into an excel sheet
 
 BEFORE RUNNING THE SCRIPT YOU NEED TO MODIFY IT TO YOUR NEEDS!
